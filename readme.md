@@ -16,11 +16,11 @@ PS:每天至少花两个小时来学习相关知识
 ## 学习路线
 
 ## 人工智能知识大全
-![Alt text](./intelligence/resouces/media/picture/intelligence01.jpg)
-![Alt text](./intelligence/resouces/media/picture/intelligence02.jpg)
-![Alt text](./intelligence/resouces/media/picture/intelligence03.jpg)
-![Alt text](./intelligence/resouces/media/picture/intelligence04.jpg)
-![Alt text](./intelligence/resouces/media/picture/intelligence05.jpg)
-![Alt text](./intelligence/resouces/media/picture/intelligence06.jpg)
-![Alt text](./intelligence/resouces/media/picture/intelligence07.jpg)
-![Alt text](./intelligence/resouces/media/picture/intelligence08.jpg)
+![Alt text](./resouces/media/picture/intelligence01.jpg)
+![Alt text](./resouces/media/picture/intelligence02.jpg)
+![Alt text](./resouces/media/picture/intelligence03.jpg)
+![Alt text](./resouces/media/picture/intelligence04.jpg)
+![Alt text](./resouces/media/picture/intelligence05.jpg)
+![Alt text](./resouces/media/picture/intelligence06.jpg)
+![Alt text](./resouces/media/picture/intelligence07.jpg)
+![Alt text](./resouces/media/picture/intelligence08.jpg)
